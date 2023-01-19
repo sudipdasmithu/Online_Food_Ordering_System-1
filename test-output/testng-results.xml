@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Restaurant Added Successfully]]>
+      <![CDATA[baba ka swaghat new user mea]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-01-18T19:51:19 IST" name="Default suite" finished-at="2023-01-18T19:51:19 IST" duration-ms="142">
+  <suite started-at="2023-01-19T12:10:29 IST" name="Default suite" finished-at="2023-01-19T12:10:29 IST" duration-ms="122">
     <groups>
     </groups>
-    <test started-at="2023-01-18T19:51:19 IST" name="Default test" finished-at="2023-01-18T19:51:19 IST" duration-ms="142">
-      <class name="projectPractice.AddRestaurantTest">
-        <test-method signature="resturantTest()[pri:0, instance:projectPractice.AddRestaurantTest@1ba9117e]" started-at="2023-01-18T19:51:19 IST" name="resturantTest" finished-at="2023-01-18T19:51:19 IST" duration-ms="27" status="PASS">
+    <test started-at="2023-01-19T12:10:29 IST" name="Default test" finished-at="2023-01-19T12:10:29 IST" duration-ms="122">
+      <class name="UserModule.Nagbaba">
+        <test-method signature="babaji_Test()[pri:0, instance:UserModule.Nagbaba@48974e45]" started-at="2023-01-19T12:10:29 IST" name="babaji_Test" finished-at="2023-01-19T12:10:29 IST" duration-ms="22" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Restaurant Added Successfully]]>
+              <![CDATA[baba ka swaghat new user mea]]>
             </line>
           </reporter-output>
-        </test-method> <!-- resturantTest -->
-      </class> <!-- projectPractice.AddRestaurantTest -->
+        </test-method> <!-- babaji_Test -->
+      </class> <!-- UserModule.Nagbaba -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
